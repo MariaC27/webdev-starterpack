@@ -1,0 +1,25 @@
+{
+  "name": "webdev-starterpack",
+  "version": "1.0.0",
+  "description": "frontend development starter pack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaC27/webdev-starterpack.git"
+  },
+  "author": "Maria Cristoforo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaC27/webdev-starterpack/issues"
+  },
+  "homepage": "https://github.com/MariaC27/webdev-starterpack#readme",
+  "devDependencies": {
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
